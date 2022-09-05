@@ -11,28 +11,28 @@ Hi my name is lizongrong. I am from China
 
 I am so glad to meet you here `and` introduce you myself!
 
-- experience: (我觉得先说背景比较好)
+- experience: (我觉得先说背景比较好)  
 
-  I learn computers in my college,after that, I become a software engineer
+  I learn computers in my college,after that, I become a software engineer.
 
-  so I have been a software engineer for more than five or six years 
+  so I have been a software engineer for more than five or six years.
 
   In my previous job, my main work is to design, develop `and` create applications within a cloud-native environment.
 
   I worked for the cafeteria group, `and` mainly worked in payment architecture, 
-  , we have about `several million` transactions to deal with for a year, qps to be `1000 per second` in rush time, we provide a unified api layer to make these `30% performance improvement `and reusable in a new scenery if you interest in this, I can detail you later
+  , we have about `several million` transactions to deal with for a year, qps to be `1000 per second` in rush time, we provide a unified api layer to make these `30% performance improvement` `and` reusable in a new scenery, if you interest in this, I can detail you later.
 
-  besides this I also do some maintenance `and` operation jobs, tunning `and` optimized database query, `and` something like that
+  besides this I also do some maintenance `and` operation jobs, tunning `and` optimized database query, `and` something like that.
 
--  skills
+-  skills  
   I have been using golang for more than 3 years, so That's my previous work
   I really enjoy working with going, by the way, because I can focus on business compared to another language and so on, also it solved a lot of pain points.
   So in order to keep that smoothy I have to know well about backend develop technology , such as cache, database, distribution system `and` do on.
 
 
-- personality:
+- personality  
   As regards me, I describe myself as `deliverable` and `responsible`, I believe it's very important to be responsible for the things I work for, and answer for the consequences, Furthermore,  I always value much to make the delivery on time.
-  besides this, as you know that in China, the culture that we have to be very `proactive`, and I think it's good quality.
+    besides this, as you know that in China, the culture that we have to be very `proactive`, and I think it's good quality.
   As a little introvert person for myself, I know team working is essential and I always keeping enhance my strength on this side.
 
 
@@ -40,20 +40,20 @@ I am so glad to meet you here `and` introduce you myself!
 
 
 ### 第一次见团队成员
-  - written text
+  - written text  
     hi all!
     Hope you're all having a great day!
     I'm Li Zongrong, just call me Lee, I'm the new here `and` I am so proud to join the group!
-    I am in the backend development group, `and` I have been backend for several years
+    I am in the backend development group, `and` I have been backend for several years.
     I just moved from China so if there are some cultural things, It's kind of you for reminding me.
     on the other hand, I like playing video games in my leisure time! also, I like to travel `and` experience new things!
     I can't wait to know all of you `and` create great things with the group!
 
 
-#### 见到新邻居
-  - 打招呼,给出一些个人信息 搞好关系,获取生活便利或者小tips:
+### 见到新邻居
+  - 打招呼,给出一些个人信息 搞好关系,获取生活便利或者小tips:  
   Hi , you also live here? I just recently moved into the neighborhood, from China.
-  I live across the hall from you, and I am a software engineer, and my company is good 5 kilometers from here
+  I live across the hall from you, and I am a software engineer, and my company is good 5 kilometers from here.
   -  问问题
       - do you have a nice weekend? and how's the enterainments things around here?
       - are there some chinese supermarket or cinema around here?
@@ -93,7 +93,7 @@ I am so glad to meet you here `and` introduce you myself!
     culture food 
 
 
-    is there any intesting clubs or have you ever heart about the 
+    is there any interesting clubs or have you ever heart about the 
 
     feel free to tell me  
 
