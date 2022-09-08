@@ -13,7 +13,7 @@ I am so glad to meet you here `and` introduce you myself!
 
 - experience: (我觉得先说背景比较好)  
 
-  I learn computers in my college,after that, I become a software engineer.
+  I major in computers in my college,after that, I become a software engineer.
 
   so I have been a software engineer for more than five or six years.
 
@@ -27,11 +27,11 @@ I am so glad to meet you here `and` introduce you myself!
 -  skills  
   I have been using golang for more than 3 years, so That's my previous work
   I really enjoy working with going, by the way, because I can focus on business compared to another language and so on, also it solved a lot of pain points.
-  So in order to keep that smoothy I have to know well about backend develop technology , such as cache, database, distribution system `and` do on.
+  So in order to keep that smooth I have to know well about backend develop technology , such as cache, database, distribution system `and` do on.
 
 
 - personality  
-  As regards me, I describe myself as `deliverable` and `responsible`, I believe it's very important to be responsible for the things I work for, and answer for the consequences, Furthermore,  I always value much to make the delivery on time.
+  personality, I describe myself as `deliverable` and `responsible`, I believe it's very important to be responsible for the things I work for, and answer for the consequences, Furthermore,  I always value much to make the delivery on time.
     besides this, as you know that in China, the culture that we have to be very `proactive`, and I think it's good quality.
   As a little introvert person for myself, I know team working is essential and I always keeping enhance my strength on this side.
 
@@ -43,9 +43,9 @@ I am so glad to meet you here `and` introduce you myself!
   - written text  
     hi all!
     Hope you're all having a great day!
-    I'm Li Zongrong, just call me Lee, I'm the new here `and` I am so proud to join the group!
+    I'm Li Zongrong, just call me Lee, I'm new here `and` I am so proud to be the a member of the team!
     I am in the backend development group, `and` I have been backend for several years.
-    I just moved from China so if there are some cultural things, It's kind of you for reminding me.
+    I just moved here from China so if there are some cultural things, It's kind of you for reminding me.
     on the other hand, I like playing video games in my leisure time! also, I like to travel `and` experience new things!
     I can't wait to know all of you `and` create great things with the group!
 
